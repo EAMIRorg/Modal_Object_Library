@@ -1,0 +1,7 @@
+;modal_change.def
+
+LIBRARY modal_change.mxe
+
+EXPORTS
+	main
+
