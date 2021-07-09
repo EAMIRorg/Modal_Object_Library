@@ -22,7 +22,7 @@
 
 // some nice boost algorithms/helpers
 #include "boost/assign/std/vector.hpp"
-#include <boost/algorithm/string.hpp>  
+#include "boost/algorithm/string.hpp"
 
 using namespace std;
 using namespace boost::assign;
