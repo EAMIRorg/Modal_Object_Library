@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "fd74510400d76da8b964a2e31e2ba625717192ef419cd7620d87f80ae3799705"
+    }
+  ],
+  "containerPath" : "/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_change/modal_change.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/music/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/music/Library/Developer/Xcode/DerivedData/modal_change-csrakyqilcxgntbitrgvpafsipkq/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/music/Library/Developer/Xcode/DerivedData/modal_change-csrakyqilcxgntbitrgvpafsipkq/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in modal_triad, no dependencies
+modal_triad in modal_triad, depends on:
+ZERO_CHECK in modal_triad (explicit)
+ALL_BUILD in modal_triad, depends on:
+modal_triad in modal_triad (explicit)
+ZERO_CHECK in modal_triad (explicit)

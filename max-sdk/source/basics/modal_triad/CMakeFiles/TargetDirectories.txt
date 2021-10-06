@@ -1,0 +1,3 @@
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_triad/CMakeFiles/modal_triad.dir
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_triad/CMakeFiles/ALL_BUILD.dir
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_triad/CMakeFiles/ZERO_CHECK.dir

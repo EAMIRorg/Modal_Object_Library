@@ -1,0 +1,3 @@
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_change/CMakeFiles/modal_change.dir
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_change/CMakeFiles/ALL_BUILD.dir
+/Users/music/Documents/Max 8/Packages/max-sdk/source/basics/modal_change/CMakeFiles/ZERO_CHECK.dir
