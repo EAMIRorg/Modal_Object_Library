@@ -1,6 +1,6 @@
 # EAMIR SDK - Modal Object Library Externals
 ## modal change and modal triad
-In the "max-sdk" folder, open the XCode projects located in "Source>Basics>"<br>
+In the "max-sdk-..." folder, open the XCode projects located in "Source>Basics>"<br>
 modal change(Mac)<br>
 modal triad(Mac)<br>
 
