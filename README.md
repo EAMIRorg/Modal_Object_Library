@@ -11,3 +11,9 @@ The source requires Max 8 or later and is part of the EAMIR SDK package availabl
 New builds compile in the "max-sdk>externals" folder<br>
 
 www.eamir.org 
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using the EAMIR SDK and the Modal Object Library are not considered Contributions and remain the sole property of their creators.
